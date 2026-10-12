@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Our app's local data (created in later steps)
+chroma_db/
+uploads/
+
+# macOS
+.DS_Store
